@@ -1,0 +1,5 @@
+PREFIX=/
+TOKEN=
+OKAPI=
+URL=https://api.laposte.fr/
+APPLICATION=application/json
